@@ -12,7 +12,11 @@ locations, re-arrange and index them hierarchicaly by creation time
 
 
 Options:
- -v, --verbose               increase verbosity
- -d, --directory             search path root
- -t  --target                directory where hierarchical structure will be created 
- --remove-src                remove source file after successful copy
+
+ -v, --verbose               increase verbosity 
+ 
+ -d, --directory             search path root 
+ 
+ -t  --target                directory where hierarchical structure will be created  
+ 
+ --remove-src                remove source file after successful copy 
